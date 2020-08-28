@@ -5,7 +5,7 @@ Combining Deep RL and SimPy models of hospital systems
 
 ## Run on BinderHub:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MichaelAllen1966/learninghospital/master)
+[![Binder](https://mybinder.org/v2/gh/neelgandhi108/rl_hospital/tree/master/learninghospital-master/master)
 
 
 ## Set up environment locally
